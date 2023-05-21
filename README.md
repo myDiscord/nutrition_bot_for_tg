@@ -7,7 +7,6 @@ Note that the Harris-Benedict formula cannot be apply to very obese people (the 
 ## Prerequisites
 
 - Python 3.6 or higher
-- Required Python packages (specified in `requirements.txt`)
 
 ## Installation
 
