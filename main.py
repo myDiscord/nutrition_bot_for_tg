@@ -7,7 +7,7 @@ from other import BotState, calculator, activity_message, info
 
 logging.basicConfig(level=logging.INFO)
 storage = MemoryStorage()
-bot = Bot(token='5268630792:AAHEZ8vvsdmAt2Pu2--Mnd14RbxvGFa-dpo')
+bot = Bot(token='52686392:AAHEZ8vvsdmAt2Pu2---dpo')
 dp = Dispatcher(bot, storage=storage)
 
 
